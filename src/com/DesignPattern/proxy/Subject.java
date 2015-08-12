@@ -1,4 +1,4 @@
-package com.proxy;
+package com.DesignPattern.proxy;
 
 public interface Subject {
 String doSomeThing();

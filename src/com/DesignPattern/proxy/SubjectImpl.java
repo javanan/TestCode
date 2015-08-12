@@ -1,4 +1,4 @@
-package com.proxy;
+package com.DesignPattern.proxy;
 
 public class SubjectImpl implements Subject{
 
